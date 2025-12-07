@@ -1,0 +1,13 @@
+{
+  "name": "tcp-app",
+  "version": "1.0.0",
+  "description": "Establece una conexión TCP y envía/recibe datos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["tcp", "network", "socket"],
+  "author": "bri",
+  "license": "ISC",
+  "type": "module"
+}
